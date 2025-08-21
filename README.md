@@ -18,7 +18,9 @@ Exploring advanced intersections like RF/SATCOM, embedded systems, and AI-driven
 
 🔹 Achievements
 
-Certifications: CRTP (Altered Security), CompTIA Security+, Pentest+, CNVP, CNSP, CCSP, CAP
+Certifications: CRTP (Altered Security), CompTIA Security+, Pentest+, CNVP, CNSP, CCSP, CAP & Others
+
+Pursuing: HackTheBox CPTS, CyberWarfareLabs CRTA, Altered Security CETP
 
 Hall of Fame: Google, Oracle & Others
 
