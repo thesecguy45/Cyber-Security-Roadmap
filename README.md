@@ -26,7 +26,7 @@ CVE: CVE-2022-21500
 
 🔹 Work Experience
 
-Senior Threat Researcher – HivePro (2023–Present)
+Senior Threat Researcher – HivePro (2025–Present)
 
 Information Security Engineer – PhonePe (2022–2025)
 
