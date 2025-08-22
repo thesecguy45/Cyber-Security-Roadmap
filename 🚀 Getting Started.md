@@ -165,9 +165,3 @@ Keep experimenting
 Outpace others with consistent effort
 
 Only then can you make a mark in this industry and earn a good living.
-
-👉 My suggestion: add two extra sections for completeness:
-
-📚 Resources Section – Recommended books, blogs, labs, certs, YouTube channels.
-
-🗺️ Roadmap Diagram – A flowchart of progression (Foundations → Offensive/Defensive → Advanced Specializations → Career).
