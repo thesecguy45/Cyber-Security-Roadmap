@@ -67,6 +67,6 @@ It’s designed to help you **think like an attacker, defend like a hunter, and 
 ## 🔹 Information & Contact  
 
 **Author:**   [Owais Lone](https://owaislone.com)
-**Github:**   [](https://github.com/thesecguy45)
-**Blog:**     [](https://medium.com/@thesecguy)
-**Linkedin**: [](https://in.linkedin.com/in/thesecguy)
+**Github:**   (https://github.com/thesecguy45)
+**Blog:**     (https://medium.com/@thesecguy)
+**Linkedin**: (https://in.linkedin.com/in/thesecguy)
