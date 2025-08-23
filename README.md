@@ -46,21 +46,56 @@ Cybersecurity professional with **6+ years of offensive security experience**, c
 
 ---
 
-## 🔹 Roadmap Coverage  
+# 📚 Roadmap Coverage
 
-🟢 **Foundations** – Networking, Linux, Windows, scripting, security concepts  
-🔴 **Offensive Security (Red Team)** – Pentesting, privilege escalation, adversary emulation, exploit dev  
-🔵 **Defensive Security (Blue Team)** – Threat hunting, malware analysis, detection engineering  
-☁ **Cloud Security** – AWS, Azure, GCP attack & defense simulations  
-📡 **Specialized Domains** – Reverse engineering, RF/SATCOM, embedded device security  
-🚀 **Career Growth** – Certifications, labs, CTFs, projects, and research pathways  
+## 1. Foundations
+
+* **Computer Hardware**
+* **Networking Fundamentals**
+* **Computer & Security Fundamentals**
+* **Programming & Algorithms**
+* **Operating Systems Concepts**
+* **Linux & Scripting**
+
+## 2. Core Cybersecurity Knowledge
+
+* **Web Applications & Security**
+* **Cryptography Fundamentals**
+* **Protocols (DNS, HTTP, TCP/IP, SSH, PKI, etc.)**
+* **Authentication & Authorization**
+
+## 3. Specialized Domains
+
+* **Malware Analysis & Reverse Engineering**
+* **Penetration Testing (Red, Blue & Purple Teaming)**
+* **MITRE ATT\&CK Framework**
+* **Attack Kill Chain & Phases**
+* **Vulnerability Management**
+* **Defense Evasion Techniques**
+* **Cloud & Container Security**
+* **Detection & Incident Response**
+* **Digital Forensics & Evidence Handling**
+* **Threat Modeling**
+* **Security Architecture & Design**
+
+## 4. Bonus & Resources
+
+* **Assembly Language & Exploit Development**
+* **Major Cybersecurity Projects**
+* **Resources, Books, Courses & Certifications**
+
+---
+
+⚡ This roadmap builds **from foundations → core → specialized → advanced skills** ensuring structured growth into cybersecurity mastery.
+
 
 ---
 
 ## 🔹 Why This Repo?  
 
 This roadmap is based on **battle-tested industry experience — not just theory**.  
-It’s designed to help you **think like an attacker, defend like a hunter, and grow like a professional**.  
+This roadmap is built to provide a **structured path toward mastery in cybersecurity.**
+It focuses on **progressive learning, practical skills, and real-world application**, helping learners move from fundamentals to advanced expertise with clarity and confidence.
 
 ---
 
