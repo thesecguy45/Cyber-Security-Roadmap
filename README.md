@@ -17,7 +17,7 @@ This repository is designed for **students, enthusiasts, and professionals** who
 
 ## 🔹 About the Author  
 
-Cybersecurity professional with **6+ years of offensive security experience**, currently working as a **Senior Threat Researcher (HivePro)**. Skilled in:  
+Cybersecurity professional with **6+ years of offensive security experience**, currently working as a **Senior Threat Researcher**. Skilled in:  
 
 - Red teaming & adversary simulation  
 - Threat intelligence & malware analysis  
@@ -31,7 +31,7 @@ Cybersecurity professional with **6+ years of offensive security experience**, c
 
 - **Certifications:** CRTP (Altered Security), CompTIA Security+, Pentest+, CNVP, CNSP, CCSP, CAP & Others  
 - **Pursuing:** HackTheBox CPTS, CyberWarfareLabs CRTA, Altered Security CETP  
-- **Hall of Fame:** Google, Oracle & Others  
+- **Hall of Fame:** [Google](https://bughunters.google.com/leaderboard/honorable-mentions), [Oracle](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-21500) & Others  
 - **CVE:** [CVE-2022-21500](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-21500)  
 
 ---
@@ -64,6 +64,9 @@ It’s designed to help you **think like an attacker, defend like a hunter, and 
 
 ---
 
-## 🔹 Source  
+## 🔹 Information & Contact  
 
-**Author:** [Owais Lone](https://owaislone.com)  
+**Author:**   [Owais Lone](https://owaislone.com)
+**Github:**   [](https://github.com/thesecguy45)
+**Blog:**     [](https://medium.com/@thesecguy)
+**Linkedin**: [](https://in.linkedin.com/in/thesecguy)
