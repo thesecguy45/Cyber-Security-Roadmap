@@ -49,40 +49,47 @@ Cybersecurity professional with **6+ years of offensive security experience**, c
 # 📚 Roadmap Coverage
 
 ## 1. Foundations
-
-* **Computer Hardware**
-* **Networking Fundamentals**
-* **Computer & Security Fundamentals**
-* **Programming & Algorithms**
-* **Operating Systems Concepts**
-* **Linux & Scripting**
+- **Computer Hardware**
+- **Networking Fundamentals**
+- **Computer & Security Fundamentals**
+- **Programming & Algorithms**
+- **Operating Systems Concepts**
+- **Linux & Scripting**
 
 ## 2. Core Cybersecurity Knowledge
-
-* **Web Applications & Security**
-* **Cryptography Fundamentals**
-* **Protocols (DNS, HTTP, TCP/IP, SSH, PKI, etc.)**
-* **Authentication & Authorization**
+- **Web Applications & Security**
+- **Cryptography Fundamentals**
+- **Protocols (DNS, HTTP, TCP/IP, SSH, PKI, etc.)**
+- **Authentication & Authorization**
 
 ## 3. Specialized Domains
 
-* **Malware Analysis & Reverse Engineering**
-* **Penetration Testing (Red, Blue & Purple Teaming)**
-* **MITRE ATT\&CK Framework**
-* **Attack Kill Chain & Phases**
-* **Vulnerability Management**
-* **Defense Evasion Techniques**
-* **Cloud & Container Security**
-* **Detection & Incident Response**
-* **Digital Forensics & Evidence Handling**
-* **Threat Modeling**
-* **Security Architecture & Design**
+###  Offensive & Simulation
+- **Penetration Testing**
+- **Red & Blue Teaming**
+- **MITRE ATT&CK Framework**
+- **Attack Kill Chain & Phases**
 
-## 4. Bonus & Resources
+###  Defensive Security
+- **Detection & Incident Response**
+- **Vulnerability Management**
+- **Continuous Threat Exposure Management (CTEM)** :contentReference[oaicite:0]{index=0}
 
-* **Assembly Language & Exploit Development**
-* **Major Cybersecurity Projects**
-* **Resources, Books, Courses & Certifications**
+###  Cloud & Container Security
+- **Cloud Security** (AWS, Azure, GCP)
+- **Container Security** (Kubernetes, Docker; ML in container security) :contentReference[oaicite:1]{index=1}
+
+###  Specialized Technical Disciplines
+- **Malware Analysis & Reverse Engineering**
+- **Defense Evasion Techniques**
+- **Threat Modeling**
+- **Security Architecture & Design**
+- **Digital Forensics & Evidence Handling**
+- **Assembly Language & Exploit Development**
+
+## 4. Bonus & Career Growth
+- **Major Cybersecurity Projects**
+- **Resources, Books, Courses & Certifications**
 
 ---
 
