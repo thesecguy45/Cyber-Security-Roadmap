@@ -101,7 +101,7 @@ Instead, focus on **real-world domains currently in demand**:
 
 ---
 
-## 🧘 Burnout & Well-Being  
+## 🫚 Burnout & Well-Being  
 
 Cybersecurity is demanding — exams like **OSCP (24h), CRTP, or CPTS (10 days)** are grueling.  
 
@@ -112,7 +112,7 @@ Cybersecurity is demanding — exams like **OSCP (24h), CRTP, or CPTS (10 days)*
 
 ---
 
-## 🎤 Interview Tips  
+## 🔉 Interview Tips  
 
 Expect open-ended questions like:  
 👉 *“What happens when you type facebook.com in a browser?”*  
