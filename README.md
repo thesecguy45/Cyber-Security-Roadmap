@@ -46,12 +46,12 @@ Cybersecurity professional with **6+ years of offensive security experience**, c
 
 ---
 
-# 📚 Roadmap Coverage
+# 📚 Roadmap
 
-## 0. 🚀 Getting Started
+## 0️⃣ Getting Started 🚀
 👉 [Go to Getting Started](./getting-started.md)
 
-## 1. Core Foundations
+## 1️⃣ Core Foundations 🧱  
 - **Computer Hardware & Architecture**
 - **Networking Fundamentals**
 - **Computer & Security Fundamentals**
@@ -59,13 +59,18 @@ Cybersecurity professional with **6+ years of offensive security experience**, c
 - **Operating Systems Concepts**
 - **Linux & Scripting**
 
-## 2. Core Cybersecurity Knowledge
-- **Web Applications & Security**
-- **Cryptography**
-- **Protocols**
-- **Authentication & Authorization**
+## 2️⃣ Core Cybersecurity Knowledge 🔐  
 
-## 3. ⚔️ Offensive Security & Simulation
+- **Web Applications & Security**  
+- **Cryptography Fundamentals**  
+- **Protocols & Standards**  
+- **Authentication & Authorization**  
+- **Security Principles & Models**  
+- **Access Control**  
+- **Threats & Vulnerabilities**  
+- **Security Operations Basics**
+
+## 3️⃣ Offensive Security & Simulation 🔴 
 - **Red Teaming & Adversary Simulation**
 - **Attack Kill Chain & Phases**
 - **Breach & Attack Simulation**
@@ -73,7 +78,7 @@ Cybersecurity professional with **6+ years of offensive security experience**, c
 - **MITRE ATT&CK Framework**
 - **OSINT - Open Source Intelligence**
 
-## 4. 🛡️ Defensive Security
+## 4️⃣ Defensive Security 🔵  
 - **Threat Detection & Detection Engineering**
 - **Incident Response & Handling**
 - **Vulnerability Management**
@@ -81,12 +86,12 @@ Cybersecurity professional with **6+ years of offensive security experience**, c
 - **Continuous Threat Exposure Management (CTEM)**
 - **Threat Hunting**
 
-## 5. ☁️ Cloud & Container Security
+## 5️⃣ Cloud Security & Container Security ☁️ 
 - **Cloud Security (AWS, Azure, GCP)**
 - **Container & Kubernetes Security**
 - **CI/CD & DevSecOps**
 
-## 6. 🧩 Specialized Technical Disciplines
+## 6️⃣ Specialized Technical Disciplines 🧩  
 - **Malware Analysis & Reverse Engineering**
 - **Defense Evasion Techniques**
 - **Threat Modeling**
@@ -94,7 +99,7 @@ Cybersecurity professional with **6+ years of offensive security experience**, c
 - **Digital Forensics & Evidence Handling**
 - **Assembly Language & Exploit Development**
 
-## 7. 🔮 Emerging Domains
+## 7️⃣ Emerging Domains 🔮  
 - **AI/ML Security & Adversarial ML**
 - **IoT & OT Security**
 - **Zero Trust Security**
@@ -102,8 +107,8 @@ Cybersecurity professional with **6+ years of offensive security experience**, c
 - **Blockchain & Smart Contract Security**
 - **Privacy Engineering & Data Protection**
 - **Supply Chain Security**
-
-## 8. 🎯 Bonus & Career Growth
+- 
+## 8️⃣ Bonus & Career Growth 🎯 
 - **Major Cybersecurity Projects**
 - **Resources, Books, Courses & Certifications**
 - **Conferences, Talks & Research**
