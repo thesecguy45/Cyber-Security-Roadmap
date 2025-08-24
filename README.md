@@ -48,8 +48,11 @@ Cybersecurity professional with **6+ years of offensive security experience**, c
 
 # 📚 Roadmap Coverage
 
-## 1. Foundations
-- **Computer Hardware**
+## 0. 🚀 Getting Started
+👉 [Go to Getting Started](./getting-started.md)
+
+## 1. Core Foundations
+- **Computer Hardware & Architecture**
 - **Networking Fundamentals**
 - **Computer & Security Fundamentals**
 - **Programming & Algorithms**
@@ -58,30 +61,32 @@ Cybersecurity professional with **6+ years of offensive security experience**, c
 
 ## 2. Core Cybersecurity Knowledge
 - **Web Applications & Security**
-- **Cryptography Fundamentals**
-- **Protocols (DNS, HTTP, TCP/IP, SSH, PKI, etc.)**
+- **Cryptography**
+- **Protocols**
 - **Authentication & Authorization**
 
-## 3. Specialized Domains
-
-###  Offensive & Simulation
-- **Penetration Testing**
-- **Red & Blue Teaming**
-- **MITRE ATT&CK Framework**
+## 3. ⚔️ Offensive Security & Simulation
+- **Red Teaming & Adversary Simulation**
 - **Attack Kill Chain & Phases**
 - **Breach & Attack Simulation**
+- **Penetration Testing**
+- **MITRE ATT&CK Framework**
+- **OSINT - Open Source Intelligence**
 
-###  Defensive Security
-- **Detection & Incident Response**
+## 4. 🛡️ Defensive Security
+- **Threat Detection & Detection Engineering**
+- **Incident Response & Handling**
 - **Vulnerability Management**
 - **Attack Surface Management**
 - **Continuous Threat Exposure Management (CTEM)**
+- **Threat Hunting**
 
-###  Cloud & Container Security
-- **Cloud Security**
-- **Container Security**
+## 5. ☁️ Cloud & Container Security
+- **Cloud Security (AWS, Azure, GCP)**
+- **Container & Kubernetes Security**
+- **CI/CD & DevSecOps**
 
-###  Specialized Technical Disciplines
+## 6. 🧩 Specialized Technical Disciplines
 - **Malware Analysis & Reverse Engineering**
 - **Defense Evasion Techniques**
 - **Threat Modeling**
@@ -89,9 +94,20 @@ Cybersecurity professional with **6+ years of offensive security experience**, c
 - **Digital Forensics & Evidence Handling**
 - **Assembly Language & Exploit Development**
 
-## 4. Bonus & Career Growth
+## 7. 🔮 Emerging Domains
+- **AI/ML Security & Adversarial ML**
+- **IoT & OT Security**
+- **Zero Trust Security**
+- **Quantum Cryptography & Post-Quantum Security**
+- **Blockchain & Smart Contract Security**
+- **Privacy Engineering & Data Protection**
+- **Supply Chain Security**
+
+## 8. 🎯 Bonus & Career Growth
 - **Major Cybersecurity Projects**
 - **Resources, Books, Courses & Certifications**
+- **Conferences, Talks & Research**
+
 
 ---
 
