@@ -13,7 +13,8 @@ Exploits were everywhere:
 - **Phishing pages** running off exposed databases  
 
 💡 *From experience:*  
-I once compromised a hacker’s phishing site that had direct DB connections with **thousands (if not hundreds of thousands) of real Facebook accounts**.  
+I once compromised a hacker’s phishing site that had direct DB connection from the web application without authentication containing **thousands (if not hundreds of thousands) of real Facebook accounts**.
+I never reached the end of the list... 😀
 
 But the game has changed. Today:  
 
